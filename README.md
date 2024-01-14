@@ -21,13 +21,13 @@ SQL-скрипт, реализующий структуру базы данны�
 1. Клонируйте репозиторий на свой локальный компьютер:
 
     ```
-    git clone https://github.com/your_username/inventory_management.git
+    git clone https://github.com/garnet-ar/Database-project.git
     ```
 
 2. Перейдите в каталог проекта:
 
     ```
-    cd inventory_management
+    cd Database-project
     ```
 
 3. Установите необходимые зависимости:
